@@ -1,7 +1,7 @@
 # study-java8  
 
 ------
-  
+[day 1]
 1. 함수형 인터페이스
    - 추상 메소드가 단 하나 존재하는 인터페이스
      - SAM (Single Abstract Method)
